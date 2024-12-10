@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @WebdevX1
-- 👀 I’m interested in Tech and digital tools.
-- 🌱 I’m currently learning PHP and Python.
-- 💞️ I’m looking to collaborate on your projects.
-- 📫 You can Reach me on Facebook as Webdev Gamedev and on Twitter as AlphonsusG99048
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love codes 😜 
+- 👋 Hi, we are Luminari Labs.
+- 👀 we build your online essence.
+- 🌱 We are available 24/7.
+- 💞️ We are looking to collaborate on your projects.
+- 📫 You can Reach us on Facebook as Luminari Labs and on Twitter as AlphonsusG99048
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: We love to code 😜 
 
 <!---
 WebdevX1/WebdevX1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
